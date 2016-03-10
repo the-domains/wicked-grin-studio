@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[wicked grin studio]]></title>
         <description><![CDATA[wicked grin studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wicked-grin-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 01:47:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 01:48:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wicked-grin-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ed597e-42be-4fe2-bdbc-5bbfc0d33d92.jpg">]]></description>
+            <link>https://thegrid.ai/wicked-grin-studio/julie-earns/index.html</link>
+            <guid isPermaLink="false">8a61e81d-18b6-46e6-b6af-a6600a7c344d</guid>
+            <pubDate>Thu, 10 Mar 2016 01:47:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[my first shoot... the one that began it all for me.]]></title>
             <description><![CDATA[<article><h1>my first shoot... the one that began it all for me.</h1><p>leah velocity is not only an amazing model she is also an amazing person. a professional able to make a shoot work without zero direction but good enough to make a photographer reasonably new to studio work feel comfortable enough to provide direction… and turn what otherwise could have been a good learning experience and allow it to be far more than that.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33bf4a0ea3761201686bbfb0f8f13b8d79cf8912.jpg"></article>]]></description>
-            <link>undefinedmy-first-shoot-the-one-that-began-it-all-for-me/index.html</link>
+            <link>https://thegrid.ai/wicked-grin-studio/my-first-shoot-the-one-that-began-it-all-for-me/index.html</link>
             <guid isPermaLink="false">c56c786a-a60e-4283-90af-4cc4a98dfc32</guid>
             <pubDate>Thu, 10 Mar 2016 01:47:17 GMT</pubDate>
         </item>

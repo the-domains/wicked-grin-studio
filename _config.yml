@@ -1,6 +1,6 @@
 name: wicked grin studio
 favicon: null
-layout_spectrum: 0.03993
+layout_spectrum: 1
 typography_spectrum: 0.48620372312143445
 title: wicked grin studio
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.2483996965456754
+    - '#fefefe'
+    - '#000000'
+    - '#e5001d'
+    - '#eb6000'
+    - '#00c6f0'
+  brandStrength: 0.5
   lightness: 0.10906454850919545
-  saturation: 0.8233349299989641
-  rhythmicContrast: 0.807845019036904
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
